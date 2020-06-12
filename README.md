@@ -28,8 +28,5 @@ Validation is done using laravel validator
 * Get all meeting
 * Get a particular meeting 
 
-## FlowChart
-![](2020-06-12-17-09-16.png)
-
-## E-R Diagram
-![](2020-06-12-17-27-11.png)
+## FlowChart & E-R Diagram
+![](2020-06-12-17-35-41.png)
